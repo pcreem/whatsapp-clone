@@ -6,6 +6,9 @@
 .pnp.js
 /src-origin
 
+#projects
+/api
+
 # testing
 /coverage
 

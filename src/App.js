@@ -1,14 +1,14 @@
 import './App.css';
-import Header from './Header'
-import TinderCards from './TinderCards'
-import SwipeButtons from './SwipeButtons'
+import Chat from './Chat';
+import Sidebar from './Sidebar';
 
 function App() {
   return (
     <div className="app">
-      <Header />
-      <TinderCards />
-      <SwipeButtons />
+      <div className="app__body">
+        <Sidebar />
+        <Chat />
+      </div>
     </div>
   );
 }
