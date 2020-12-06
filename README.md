@@ -1,4 +1,4 @@
-# Amazon-clone
+# whatsapp-clone
 ![Demo Image.](https://i.ibb.co/1s6tgKy/Untitled.png)
 
 
@@ -15,4 +15,3 @@
 
 * Firebase
 * React
-
